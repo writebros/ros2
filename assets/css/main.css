@@ -2497,7 +2497,7 @@ input, select, textarea {
 		/* Logo */
 
 			#logo {
-				font-family: 'Open Sans Condensed', sans-serif;
+				font-family: 'Ink Free', sans-serif;
 				font-weight: 700;
 				font-size: 2em;
 				letter-spacing: 0.1em;
@@ -2505,7 +2505,7 @@ input, select, textarea {
 
 				#logo a {
 					display: block;
-					background-color: #c94663;
+					background-color: #4d0a6f;
 					background-image: url("images/bg01.png");
 					padding: 0.875em 0.25em;
 					border-radius: 0.2em;
