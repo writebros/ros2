@@ -2550,7 +2550,7 @@ input, select, textarea {
 					background-color: #4d0a6f;
 					background-image: url("images/blue.png");
 					padding: 2.875em 2.25em;
-					border-radius: 2.3em;
+					border-radius: 1.3em;
 					text-align: center;
 					box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.15), 0 0.025em 0.15em 0em rgba(0, 0, 0, 0.25);
 					text-decoration: none;
